@@ -52,3 +52,9 @@ h1 {
 .titlePink {
   color: white;
 }
+
+.cards {
+  display: flex;
+  gap: 40px;
+  margin-left: 100px;
+}
